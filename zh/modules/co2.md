@@ -20,14 +20,14 @@ MH-Z19D 二氧化碳气体传感器是一个通用小型传感器，利用非色
 
 #### ⭐ 接口
 <img
-src="../../public/assets/images/co2/jk.png"
+src="../../images/co2/jk.png"
 style={{width: "270px", height: "auto"}}
 alt=""
 />
 
 #### ⭐ 尺寸
 <img
-src="../../public/assets/images/co2/cx.png"
+src="../../images/co2/cx.png"
 style={{width: "600px", height: "auto"}}
 alt=""
 />
@@ -55,7 +55,7 @@ alt=""
 
 #### ⭐ 连接图
 <img
-src="../../public/assets/images/co2/connect.png"
+src="../../images/co2/connect.png"
 style={{width: "600px", height: "auto"}}
 alt=""
 />
@@ -105,7 +105,7 @@ void loop()
 <Accordion title="运行结果">
 在Arduino IDE串口监视器可以查看到当前CO2浓度情况。
 <img
-src="../../public/assets/images/co2/uart.png"
+src="../../images/co2/uart.png"
 style={{width: "800px", height: "auto"}}
 alt=""
 />
@@ -118,11 +118,11 @@ alt=""
 ## ⭐ 其他资料
 <AccordionGroup>
 <Accordion title="硬件原理图">
-二氧化碳传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/assets/schematics/co2.pdf)
+二氧化碳传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../assets/schematics/co2.pdf)
 </Accordion>
 
 <Accordion title="数据手册">
-二氧化碳传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/assets/datasheet/MH-Z19D.pdf)
+二氧化碳传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../assets/datasheet/MH-Z19D.pdf)
 </Accordion>
 
 </AccordionGroup>

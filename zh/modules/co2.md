@@ -1,9 +1,11 @@
 ---
 title: CO2传感器模块
 ---
+
 ## ⭐ 简介
 MH-Z19D 二氧化碳气体传感器是一个通用小型传感器，利用非色散红外（NDIR）原理对空气中存在的 CO2 进行探测，具有很好的选择性、无氧气依赖性、寿命长等特点。该传感器是将成熟的红外吸收气体检测技术与精密光路设计、精良电路设计紧密结合而制作出的高性能传感器。
 
+<AccordionGroup>
 <Accordion title="参数 & 接口 & 尺寸">
 
 #### ⭐ 参数
@@ -18,21 +20,26 @@ MH-Z19D 二氧化碳气体传感器是一个通用小型传感器，利用非色
 
 #### ⭐ 接口
 <img
-src="../../images/co2/jk.png"
+src="../../public/assets/images/co2/jk.png"
 style={{width: "270px", height: "auto"}}
 alt=""
 />
 
 #### ⭐ 尺寸
 <img
-src="../../images/co2/cx.png"
+src="../../public/assets/images/co2/cx.png"
 style={{width: "600px", height: "auto"}}
 alt=""
 />
 
 </Accordion>
+</AccordionGroup>
+
+
+
 
 ## ⭐ 如何使用
+<AccordionGroup>
 <Accordion title="准备 & 硬件连接">
 在Artikit-ESP32-S3主控板控制下，使用串口通过CO2传感器采集CO2浓度的过程。
 
@@ -48,7 +55,7 @@ alt=""
 
 #### ⭐ 连接图
 <img
-src="../../images/co2/connect.png"
+src="../../public/assets/images/co2/connect.png"
 style={{width: "600px", height: "auto"}}
 alt=""
 />
@@ -97,15 +104,25 @@ void loop()
 
 <Accordion title="运行结果">
 在Arduino IDE串口监视器可以查看到当前CO2浓度情况。
-![串口输出](../../images/co2/uart.png)
+<img
+src="../../public/assets/images/co2/uart.png"
+style={{width: "800px", height: "auto"}}
+alt=""
+/>
 </Accordion>
+</AccordionGroup>
+
+
+
 
 ## ⭐ 其他资料
+<AccordionGroup>
 <Accordion title="硬件原理图">
-二氧化碳传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../resources/sch/co2.pdf)
+二氧化碳传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/assets/schematics/co2.pdf)
 </Accordion>
 
 <Accordion title="数据手册">
-二氧化碳传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../resources/datasheet/MH-Z19D.pdf)
+二氧化碳传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/assets/datasheet/MH-Z19D.pdf)
 </Accordion>
 
+</AccordionGroup>

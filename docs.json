@@ -49,6 +49,7 @@
                   "zh/modules/ir",
                   "zh/modules/ls",
                   "zh/modules/thp",
+                  "zh/modules/rgb",
                   "zh/modules/fan"
                 ]
               }
@@ -84,6 +85,7 @@
                   "en/modules/ir",
                   "en/modules/ls",
                   "zh/modules/thp",
+                  "zh/modules/rgb",
                   "en/modules/fan"
                 ]
               }

@@ -34,7 +34,7 @@ alt=""
 />
 
 #### ⭐ 尺寸
-- 📐 24mm x 40mm x 14.5mm
+- 📐 24mm x 40mm x 14.6mm
 
 <img
 src="../../images/thp/cx.png"

@@ -45,8 +45,9 @@
                 "group": "模块使用",
                 "pages": [
                   "zh/modules/pir",
-                  "zh/modules/fan",
-                  "zh/modules/co2"
+                  "zh/modules/co2",
+                  "zh/modules/ir",
+                  "zh/modules/fan"
                 ]
               }
             ]
@@ -77,8 +78,9 @@
                 "group": "Modules",
                 "pages": [
                   "en/modules/pir",
-                  "en/modules/fan",
-                  "en/modules/co2"
+                  "en/modules/co2",
+                  "en/modules/ir",
+                  "en/modules/fan"
                 ]
               }
             ]

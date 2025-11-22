@@ -48,6 +48,7 @@
                   "zh/modules/co2",
                   "zh/modules/ir",
                   "zh/modules/ls",
+                  "zh/modules/thp",
                   "zh/modules/fan"
                 ]
               }
@@ -82,6 +83,7 @@
                   "en/modules/co2",
                   "en/modules/ir",
                   "en/modules/ls",
+                  "zh/modules/thp",
                   "en/modules/fan"
                 ]
               }

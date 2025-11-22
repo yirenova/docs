@@ -101,11 +101,11 @@ alt=""
 ## ⭐ 其他资料
 <AccordionGroup>
 <Accordion title="硬件原理图">
-**人体红外**传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/pir.pdf)
+人体红外传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/pir.pdf)
 </Accordion>
 
 <Accordion title="数据手册">
-**人体红外**传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/AS-312.pdf)
+人体红外传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/AS-312.pdf)
 </Accordion>
 
 </AccordionGroup>

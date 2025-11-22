@@ -154,9 +154,9 @@ alt=""
 
 <Accordion title="数据手册">
 
-**红外接收**传感器数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/HX1813.pdf)
+红外接收传感器数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/HX1813.pdf)
 
-**红外发送**传感器数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/IR940.pdf)
+红外发送传感器数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/IR940.pdf)
 </Accordion>
 
 </AccordionGroup>

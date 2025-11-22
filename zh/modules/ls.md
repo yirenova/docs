@@ -103,11 +103,11 @@ alt=""
 ## ⭐ 其他资料
 <AccordionGroup>
 <Accordion title="硬件原理图">
-**光照强度**传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/ls.pdf)
+光照强度传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/ls.pdf)
 </Accordion>
 
 <Accordion title="数据手册">
-**光照强度**传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/TEMT6000.pdf)
+光照强度传感器模块数据手册 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/datasheet/TEMT6000.pdf)
 </Accordion>
 
 </AccordionGroup>

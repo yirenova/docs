@@ -1,5 +1,5 @@
 ---
-title: ir 传感器模块
+title: 红外接收发射模块
 ---
 
 ## ⭐ 简介
@@ -149,7 +149,7 @@ alt=""
 ## ⭐ 其他资料
 <AccordionGroup>
 <Accordion title="硬件原理图">
-人体红外传感器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/ir.pdf)
+红外收发模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/ir.pdf)
 </Accordion>
 
 <Accordion title="数据手册">

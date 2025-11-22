@@ -47,6 +47,7 @@
                   "zh/modules/pir",
                   "zh/modules/co2",
                   "zh/modules/ir",
+                  "zh/modules/ls",
                   "zh/modules/fan"
                 ]
               }
@@ -80,6 +81,7 @@
                   "en/modules/pir",
                   "en/modules/co2",
                   "en/modules/ir",
+                  "en/modules/ls",
                   "en/modules/fan"
                 ]
               }

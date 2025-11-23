@@ -51,6 +51,7 @@
                   "zh/modules/thp",
                   "zh/modules/rgb",
                   "zh/modules/bzr",
+                  "zh/modules/rly",
                   "zh/modules/fan"
                 ]
               }
@@ -88,6 +89,7 @@
                   "zh/modules/thp",
                   "zh/modules/rgb",
                   "zh/modules/bzr",
+                  "zh/modules/rly",
                   "en/modules/fan"
                 ]
               }

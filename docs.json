@@ -55,7 +55,8 @@
                   "zh/modules/fan",
                   "zh/modules/oled",
                   "zh/modules/spk",
-                  "zh/modules/mic"
+                  "zh/modules/mic",
+                  "zh/modules/servo"
                 ]
               }
             ]
@@ -96,7 +97,8 @@
                   "en/modules/fan",
                   "en/modules/oled",
                   "en/modules/spk",
-                  "en/modules/mic"
+                  "en/modules/mic",
+                  "en/modules/servo"
                 ]
               }
             ]

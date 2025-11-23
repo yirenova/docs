@@ -52,7 +52,8 @@
                   "zh/modules/rgb",
                   "zh/modules/bzr",
                   "zh/modules/rly",
-                  "zh/modules/fan"
+                  "zh/modules/fan",
+                  "zh/modules/spk"
                 ]
               }
             ]
@@ -90,7 +91,8 @@
                   "zh/modules/rgb",
                   "zh/modules/bzr",
                   "zh/modules/rly",
-                  "en/modules/fan"
+                  "en/modules/fan",
+                  "en/modules/spk"
                 ]
               }
             ]

@@ -103,7 +103,7 @@ alt=""
 ## ⭐ 其他资料
 <AccordionGroup>
 <Accordion title="硬件原理图">
-扬声器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/rly.pdf)
+扬声器模块原理图 [<Badge color="blue" size="lg">下载</Badge>](../../public/resources/schematics/spk.pdf)
 </Accordion>
 
 <Accordion title="数据手册">

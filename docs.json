@@ -53,7 +53,9 @@
                   "zh/modules/bzr",
                   "zh/modules/rly",
                   "zh/modules/fan",
-                  "zh/modules/spk"
+                  "zh/modules/oled",
+                  "zh/modules/spk",
+                  "zh/modules/mic"
                 ]
               }
             ]
@@ -87,12 +89,14 @@
                   "en/modules/co2",
                   "en/modules/ir",
                   "en/modules/ls",
-                  "zh/modules/thp",
-                  "zh/modules/rgb",
-                  "zh/modules/bzr",
-                  "zh/modules/rly",
+                  "en/modules/thp",
+                  "en/modules/rgb",
+                  "en/modules/bzr",
+                  "en/modules/rly",
                   "en/modules/fan",
-                  "en/modules/spk"
+                  "en/modules/oled",
+                  "en/modules/spk",
+                  "en/modules/mic"
                 ]
               }
             ]

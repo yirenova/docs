@@ -76,7 +76,7 @@ alt=""
 <Accordion title="例程代码">
 
 - 打开Arduino的程序编译环境，上传以下代码：
-```c++ lightsensor.ino
+```c++ thp.ino
 #include <Wire.h>
 #include <Adafruit_AHTX0.h>
 #include <Adafruit_BMP280.h>
